@@ -101,44 +101,44 @@ body {
 
  .icons_div{
     display: flex;
-      align-items: center;
-        gap: 15px;
-        }
+    align-items: center;
+    gap: 15px;
+}
 
-        .noun{
-          margin-bottom: 4px;
-          }
+.noun{
+  margin-bottom: 4px;
+ }
 
-          .noun_description{
-          }
+ .noun_description{
+  }
 
-          .view-bookmarks-div{
-            display: flex;
-              justify-content: space-between;
-                align-items: center;
-                  margin-bottom: 40px;
-                  }
+ .view-bookmarks-div{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-bottom: 40px;
+ }
 
-                  .view-bookmarks-div h3{
-                    font-family: sans-serif;
-                      font-size: 19px;
-                        text-decoration: underline;
-                          color: red;
-                          }
+ .view-bookmarks-div h3{
+    font-family: sans-serif;
+    font-size: 19px;
+    text-decoration: underline;
+    color: red;
+  }
 
-                          .view-bookmarks{
-                            padding: 9px;
-                              background-color: #2C2C5B;
-                                color: white;
-                                  border: none;
-                                    border-radius: 8px;
-                                      font-size: 13px;
-                                        font-weight: 500;
-                                          cursor: pointer;
-                                            transition: background-color 0.3s ease, transform 0.2s ease;
-                                            }
+  .view-bookmarks{
+    padding: 9px;
+    background-color: #2C2C5B;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+ }
 
-                                            .view-bookmarks:hover {
+                                            .view-bookmarks:hover{
                                               background-color: #1f1f47;
                                                 transform: translateY(-2px);
                                                 }
